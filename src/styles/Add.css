@@ -1,0 +1,19 @@
+.add-top{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+}
+
+.add-container{
+    background-color:rgb(40, 134, 103);
+
+}
+
+.add-entry-titlefield{
+    width:500px;
+}
+
+.add-entry-field{
+    height:350px;
+    width: 500px;
+}

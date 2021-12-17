@@ -1,0 +1,10 @@
+.clock-container{
+    background-color:white ;
+    border-radius: 10px;
+    font-size:25px;
+    font-family: monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+}
